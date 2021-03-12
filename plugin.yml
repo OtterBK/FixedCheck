@@ -1,0 +1,8 @@
+name: MineCheck
+main: main.Main
+version: 0.01
+description: Made By Bokum
+softdepend: [Vault, Vault]
+commands:
+  수표:
+    description: 수표 명령어
