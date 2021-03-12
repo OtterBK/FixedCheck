@@ -19,7 +19,7 @@
 
 <div align=center>  
 
-##### ? [플러그인](https://github.com/OtterBK/FixedCheck/tree/master/out/artifacts/FixedCheck)
+##### ? [플러그인](https://github.com/OtterBK/FixedCheck/tree/master/classes/artifacts/FixedCheck)
 
 
 </div>  
