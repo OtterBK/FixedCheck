@@ -2,24 +2,24 @@
 
 
 
-## ? FixedCheck, [ °íÁ¤ ¼öÇ¥ ÇÃ·¯±×ÀÎ ]
-> ¸¶ÀÎÅ©·¡ÇÁÆ® ¼­¹ö ÇÃ·¯±×ÀÎ (1.12.2 ¹öÀü)
+## ðŸ“’ FixedCheck, [ ê³ ì • ìˆ˜í‘œ í”ŒëŸ¬ê·¸ì¸ ]
+> ë§ˆì¸í¬ëž˜í”„íŠ¸ ì„œë²„ í”ŒëŸ¬ê·¸ì¸ (1.12.2 ë²„ì „)
   
 ---  
 
-#### ? ¾î¶² ÇÃ·¯±×ÀÎÀÎ°¡¿ä?
-¸¶ÀÎÅ©·¡ÇÁÆ®¿¡ Ä¿½ºÅÒ NPC ¸ðµå¿¡¼­ »óÁ¡ ½Ã½ºÅÛÀ» »ç¿ëÇÏ±â ½±µµ·Ï Á¤ÇÏÁø °¡°Ý¸¸Å­ÀÇ ¼öÇ¥¸¦ »ý¼ºÇÏ´Â ÇÃ·¯±×ÀÎÀÔ´Ï´Ù.
+#### ðŸ“– ì–´ë–¤ í”ŒëŸ¬ê·¸ì¸ì¸ê°€ìš”?
+ë§ˆì¸í¬ëž˜í”„íŠ¸ì— ì»¤ìŠ¤í…€ NPC ëª¨ë“œì—ì„œ ìƒì  ì‹œìŠ¤í…œì„ ì‚¬ìš©í•˜ê¸° ì‰½ë„ë¡ ì •í•˜ì§„ ê°€ê²©ë§Œí¼ì˜ ìˆ˜í‘œë¥¼ ìƒì„±í•˜ëŠ” í”ŒëŸ¬ê·¸ì¸ìž…ë‹ˆë‹¤.
 
-#### ? ¸í·É¾î
+#### ðŸ“„ ëª…ë ¹ì–´
 ```  
-* /¼öÇ¥ - ¼öÇ¥ °ü·Ã ¸í·É¾î ¸ñ·ÏÀ» Ç¥½ÃÇÕ´Ï´Ù.
+* /ìˆ˜í‘œ - ìˆ˜í‘œ ê´€ë ¨ ëª…ë ¹ì–´ ëª©ë¡ì„ í‘œì‹œí•©ë‹ˆë‹¤.
 ```  
 
-#### ? ÇÃ·¯±×ÀÎ ´Ù¿î·Îµå
+#### ðŸ“¥ í”ŒëŸ¬ê·¸ì¸ ë‹¤ìš´ë¡œë“œ
 
 <div align=center>  
 
-##### ? [ÇÃ·¯±×ÀÎ](https://github.com/OtterBK/FixedCheck/tree/master/classes/artifacts/FixedCheck)
+##### ðŸ‘‰ [í”ŒëŸ¬ê·¸ì¸](https://github.com/OtterBK/FixedCheck/tree/master/classes/artifacts/FixedCheck)
 
 
 </div>  
